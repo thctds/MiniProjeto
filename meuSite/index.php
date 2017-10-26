@@ -1,0 +1,19 @@
+<html>
+<head>
+</head>
+<body>
+	<?php
+	include_once("topo.php");
+	include_once("menu.php");
+	include_once("principal.php");
+	include_once("quemsomos.php");
+	include_once("clientes.php");
+	include_once("faleconosco.php");
+	?>
+<footer>
+	<?php
+	include_once("footer.php");
+	?>
+</footer>
+</body>
+</html>
